@@ -20,3 +20,19 @@ My classmate advised me to enroll in the RS School course, which he successfully
     Browser Developer Tools;
     Gulp;
     Adobe Photoshop, Figma;
+    
+## Code example is [here](https://github.com/MariaSyrokvash/550455-mishka-16/blob/module9-task1/source/js/modal.js)
+
+## Experience:
+ [Project Mishka](https://github.com/MariaSyrokvash/550455-mishka-16/tree/module9-task1);
+ [Project Sedona](https://github.com/MariaSyrokvash/550455-sedona-24);
+
+## Education:
+
+|School of Business of Belarusian State University|**2011-2015**                                 |
+|HTML ACADEMY                                     |HTML and CSS, Level 1 **January - March 2019**|
+|HTML ACADEMY                                     |HTML and CSS, Level 2     **March - May 2019**|
+|HTML ACADEMY                                     |JavaScript, Level 1         **November - now**|
+
+## English:
+ My english level is B1. I have a certificate issued by [International House](http://www.en.ih.by/).
